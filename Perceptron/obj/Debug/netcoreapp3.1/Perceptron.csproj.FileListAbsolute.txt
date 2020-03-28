@@ -1,0 +1,13 @@
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.exe
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.deps.json
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.json
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.runtimeconfig.dev.json
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\bin\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csprojAssemblyReference.cache
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.AssemblyInfo.cs
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.dll
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.pdb
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron\Perceptron\obj\Debug\netcoreapp3.1\Perceptron.genruntimeconfig.cache
